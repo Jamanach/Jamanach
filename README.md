@@ -5,6 +5,6 @@
 - 📫 Call me on 8485868984 
 
 <!---
-Jamanach/Jamanach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ravit/Anerao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
